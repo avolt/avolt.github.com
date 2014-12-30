@@ -123,4 +123,6 @@ JB :
 develop_list : [Jekyll, Java, Python, Node.js]
 hobby_list : [movie, skateboard, gunpla, marvel]
 
+  #Site images 
+site_images : _avolt.jpg
 
