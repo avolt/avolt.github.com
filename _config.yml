@@ -120,7 +120,7 @@ JB :
  
 
   #Tag List 
-develop_list : [Jekyll, Java, Python, Node.js]
+develop_list : [jekyll, java, python, node.js]
 hobby_list : [movie, skateboard, gunpla, marvel]
 
   #Site images 
