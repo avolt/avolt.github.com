@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Avolt Pages
+img : https://lh3.googleusercontent.com/-gqTSU8rTpDE/VKOOxOqSBdI/AAAAAAAAAGk/ubQv9tIijTU/w1024-h335-no/avoltpages.jpg
+
 ---
 {% include JB/setup %}
 

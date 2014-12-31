@@ -124,5 +124,7 @@ develop_list : [Jekyll, Java, Python, Node.js]
 hobby_list : [movie, skateboard, gunpla, marvel]
 
   #Site images 
-site_images : _avolt.jpg
+about_img : https://lh3.googleusercontent.com/-ncBN8JMYBOY/VKDv_mjC12I/AAAAAAAAAD8/			PJVyckZt5bo/w1914-h624-no/about%2Bme_avolt.jpg
+
+
 

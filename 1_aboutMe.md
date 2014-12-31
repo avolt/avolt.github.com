@@ -2,9 +2,9 @@
 layout: page
 title : About Me
 header : Post Archive
-group: navigation
+group: navigation 
+img : https://lh5.googleusercontent.com/-OamIppKG-_M/VKOOxDAdwHI/AAAAAAAAAGo/yAhmjcWQDtk/w1024-h334-no/aboutme.jpg
 ---
-
 - NickName : Avolt 
 - Name : SangWon Seo (서 상원) 
 - Email : lost2604@gmail.com
