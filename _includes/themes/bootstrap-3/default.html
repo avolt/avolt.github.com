@@ -64,7 +64,9 @@
             {% include JB/pages_list %}
           </ul>
         </div><!-- /.navbar-collapse -->
-        <img src="{{page.img}}" style="width:100%">
+        {% if page.img %}
+            <img src="{{page.img}}" style="width:100%">
+        {% endif %}
       </nav>
       <div class="container">
         {{ content }}
@@ -81,7 +83,6 @@
       </div>
     </div>
 
-    {% include JB/analytics %}
 
 
     <!-- Latest compiled and minified JavaScript, requires jQuery 1.x (2.x not supported in IE8) -->
